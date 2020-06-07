@@ -1,5 +1,3 @@
-console.log("Kekehands")
-
 const weatherSearch = document.querySelector('form')
 const search = document.querySelector('input')
 const m1 = document.querySelector('#m1')
